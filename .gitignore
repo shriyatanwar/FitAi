@@ -36,3 +36,9 @@ Thumbs.db
 
 # Misc
 *.pem
+
+#documentation files
+DEMO_GUIDE.md
+FILES_LIST.md
+PROJECT_OVERVIEW.md
+QUICKSTART.md
