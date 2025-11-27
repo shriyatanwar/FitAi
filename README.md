@@ -2,10 +2,15 @@
 
 A full-stack AI-powered fitness and nutrition application that generates personalized workout plans, meal plans, and provides an intelligent AI coach chatbot.
 
-## 📹 Demo Videos
+## 📹 Demo Video
 
-Check out the demo video in the `video/` folder to see FitAI in action:
-- [fitAI-video.mov](video/fitAI-video.mov) - Complete application walkthrough and feature demonstration
+<video src="YOUR_GITHUB_VIDEO_URL_HERE" controls width="100%">
+  Your browser does not support the video tag.
+</video>
+
+> **How to get the video URL:** Upload `video/fitAI-video.mov` by dragging it into a GitHub issue comment, then copy the generated URL and replace `YOUR_GITHUB_VIDEO_URL_HERE` above.
+
+*Alternatively, you can [download the video](video/fitAI-video.mov) to watch locally.*
 
 ## 🌟 Features
 
