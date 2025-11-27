@@ -2,6 +2,11 @@
 
 A full-stack AI-powered fitness and nutrition application that generates personalized workout plans, meal plans, and provides an intelligent AI coach chatbot.
 
+## 📹 Demo Videos
+
+Check out the demo video in the `videos/` folder to see FitAI in action:
+- [fitAi-video.mov](videos/fitAi-video.mov) - Complete application walkthrough and feature demonstration
+
 ## 🌟 Features
 
 ### ✨ Core Features
