@@ -7,6 +7,22 @@ A full-stack AI-powered fitness and nutrition application that generates persona
 Check out the demo video in the `video/` folder to see FitAI in action:
 - [fitAI-video.mov](video/fitAI-video.mov) - Complete application walkthrough and feature demonstration
 
+## 📸 Screenshots
+
+<p align="center">
+  <img src="video/image1.png" width="45%" alt="FitAI Screenshot 1">
+  <img src="video/image2.png" width="45%" alt="FitAI Screenshot 2">
+</p>
+
+<p align="center">
+  <img src="video/image3.png" width="45%" alt="FitAI Screenshot 3">
+  <img src="video/image4.png" width="45%" alt="FitAI Screenshot 4">
+</p>
+
+<p align="center">
+  <img src="video/image5.png" width="45%" alt="FitAI Screenshot 5">
+</p>
+
 ## 🌟 Features
 
 ### ✨ Core Features
