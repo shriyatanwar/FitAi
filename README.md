@@ -4,8 +4,8 @@ A full-stack AI-powered fitness and nutrition application that generates persona
 
 ## 📹 Demo Videos
 
-Check out the demo video in the `videos/` folder to see FitAI in action:
-- [fitAi-video.mov](videos/fitAi-video.mov) - Complete application walkthrough and feature demonstration
+Check out the demo video in the `video/` folder to see FitAI in action:
+- [fitAI-video.mov](video/fitAI-video.mov) - Complete application walkthrough and feature demonstration
 
 ## 🌟 Features
 
